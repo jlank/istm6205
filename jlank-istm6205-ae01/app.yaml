@@ -11,5 +11,6 @@ handlers:
 - url: /
   static_dir: static
 
-- url: /css/*
-  static_dir: static/css/bootstrap/css/bootstrap.css
+- url: /css/bootstrap/css/bootstrap.css
+  static_files: static/css/bootstrap/css/bootstrap.css
+  upload: static/css/bootstrap/css/bootstrap.css
