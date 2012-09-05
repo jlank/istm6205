@@ -1,4 +1,4 @@
-application: istm6205-ae01
+application: jlank-istm6205-ae01
 version: 1
 runtime: python
 api_version: 1
@@ -10,3 +10,6 @@ handlers:
 
 - url: /
   static_dir: static
+
+- url: /css/*
+  static_dir: static/css/bootstrap/css/bootstrap.css
