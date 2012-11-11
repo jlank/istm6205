@@ -1,0 +1,240 @@
+<Resume>
+  <ResumeId>
+    <IdValue>JA2284</IdValue>
+  </ResumeId>
+  <DistributionGuidelines>
+    <DistributeTo>
+    <Name>Deloitte Consulting</Name>
+    <ContactMethod>
+      <Telephone>
+        <FormattedNumber></FormattedNumber>
+      </Telephone>
+      <InternetWebAddress></InternetWebAddress>
+    </ContactMethod>
+    </DistributeTo>
+  <DoNotDistributeTo>
+    <Name></Name>
+  </DoNotDistributeTo>
+  </DistributionGuidelines>
+  <StructuredXMLResume>
+    <ContactInfo>
+    <PersonName>
+      <FormattedName>Amy Coffey</FormattedName>
+    </PersonName>
+    <ContactMethod>
+      <Telephone>
+        <FormattedNumber>+1 404 122 1234 </FormattedNumber>
+        <Office>227 654 3000</Office>
+        <Cell>143 256 7890</Cell>
+      </Telephone>
+      <Fax>
+        <FormattedNumber></FormattedNumber>
+      </Fax>
+      <InternetEmailAddress>amycoffey@email.com</InternetEmailAddress>
+      <InternetWebAddress></InternetWebAddress>
+      <PostalAddress>
+        <CountryCode>US</CountryCode>
+        <PostalCode>22314</PostalCode>
+        <Region>DC</Region>
+        <Municipality>Washington DC</Municipality>
+        <DeliveryAddress>123 Dupont St.</DeliveryAddress>
+        <Recipient>
+          <OrganizationName></OrganizationName>
+        </Recipient>
+      </PostalAddress>
+    </ContactMethod>
+    </ContactInfo>
+    <ExecutiveSummary>
+    She is a graduate from Georgetown University with concentrations in Government and Health Policy. Amy is pursuing a M.S. at George Washington University studying Information Systems Technology with a focus on Health Information Technology. Amy is experienced in the health care industry and has worked on a variety of federal and commercial health projects for U.S. Military health clients, larger Federal health services client, and large private sector health systems. Amy has acquired a strong set of analytic tools and communication skills with experience in performance improvement. She has worked closely with clients to evaluate performance improvement opportunities and develop organizational and investment strategies to close performance gaps. She has client-facing experience with gathering requirements for a Personal Health Record with Secure Messaging portal, IM/IT Strategic Planning, and IT investment strategy.
+    </ExecutiveSummary>
+    <Objective>
+      To find opportunities in health information technology helping that drive innovation in the health care industry. 
+    </Objective>
+    <EmploymentHistory>
+      <EmployerOrg>
+         <EmployerOrgName>Deloitte Center for Health Solutions</EmployerOrgName>
+         <InternetDomainName>www.deloitte.com/centerforhealthsolutions</InternetDomainName>
+         <EmployerContactInfo>
+      <LocationSummary>
+      <Municipality></Municipality>
+      <Region></Region>
+      </LocationSummary>
+         </EmployerContactInfo>
+         <PositionHistory positionType="fulltime">
+      <Title>Operations Specialist</Title>
+      <OrgName>
+      <OrganizationName></OrganizationName>
+      </OrgName>
+      <Description>
+        Amy is the Operations Specialist at the Center for Health Solutions where she supports the development and management of the research, marketing, and social media agenda. Her operational role serves as a connection point among the Center, client service practitioners, firm leadership, and public relations. She also works closely to support the Executive Director, Dr. Paul Keckley and Senior Advisor, Dr. Harry Greenspun.
+      </Description>
+      <StartDate>
+      <YearMonth>July 2012</YearMonth>
+      </StartDate>
+      <EndDate>
+      <YearMonth>Current</YearMonth>
+      </EndDate>
+         </PositionHistory>
+    </EmployerOrg>
+  
+    <EmployerOrg>
+         <EmployerOrgName>Deloitte Consulting, LLP</EmployerOrgName>
+         <InternetDomainName>www.deloitte.com</InternetDomainName>
+         <EmployerContactInfo>
+      <LocationSummary>
+      <Municipality></Municipality>
+      <Region></Region>
+      </LocationSummary>
+         </EmployerContactInfo>
+         <PositionHistory positionType="fulltime">
+      <Title>Senior Consultant</Title>
+      <OrgName>
+      <OrganizationName></OrganizationName>
+      </OrgName>
+      <Description>
+        Amy is experienced in the health care industry and has worked on a variety of federal and commercial health projects for U.S. Military health clients, larger Federal health services client, and large private sector health systems. Amy has acquired a strong set of analytic tools and communication skills with experience in performance improvement.
+      </Description>
+      <StartDate>
+      <YearMonth>July 2008</YearMonth>
+      </StartDate>
+      <EndDate>
+      <YearMonth>July 2012</YearMonth>
+      </EndDate>
+         </PositionHistory>
+    </EmployerOrg>
+  </EmploymentHistory>
+  <EducationHistory>
+    <SchoolOrInstitution schoolType="business">
+      <School>
+        <InternetDomainName>www.gwu.edu</InternetDomainName>
+        <SchoolName>George Washington University</SchoolName>
+      </School>
+      <Degree degreeType="masters">
+        <DegreeName>Master of Science in Information Systems Technology</DegreeName>
+        <DegreeDate>
+        <YearMonth>May 2013 Candidate</YearMonth>
+        </DegreeDate>
+        <DegreeMajor>
+        <Name></Name>
+        </DegreeMajor>
+        <DegreeMinor>
+        <Name></Name>
+        </DegreeMinor>
+        <Comments></Comments>
+      </Degree>
+    </SchoolOrInstitution>
+    <SchoolOrInstitution schoolType="undergraduate"> 
+      <School>
+        <InternetDomainName>www.georgetown.edu</InternetDomainName>
+        <SchoolName>Georgetown University</SchoolName>
+      </School>
+      <Degree degreeType="bachelors">
+        <DegreeName>Bachelor of Arts</DegreeName>
+        <DegreeDate>
+        <YearMonth>May 2008</YearMonth>
+        </DegreeDate>
+        <DegreeMajor>
+        <Name></Name>
+        </DegreeMajor>
+        <DegreeMinor>
+        <Name></Name>
+        </DegreeMinor>
+        <Comments></Comments>
+      </Degree>
+    </SchoolOrInstitution>
+    </EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name/>
+<Id/>
+<IssuingAuthority/>
+<Description/>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate/>
+</ValidFrom>
+<ValidTo>
+<AnyDate/>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<PatentHistory>
+<Patent>
+<PatentTitle/>
+<Description/>
+<Inventors>
+<InventorName/>
+<InventorName/>
+</Inventors>
+<PatentDetail>
+<PatentMilestone>
+<Status/>
+<Date/>
+</PatentMilestone>
+</PatentDetail>
+</Patent>
+</PatentHistory>
+<PublicationHistory>
+<Article>
+<Title/>
+<Name>
+<FormattedName/>
+</Name>
+<PublicationDate>
+<YearMonth/>
+</PublicationDate>
+<JournalOrSerialName/>
+<Volume/>
+<Issue/>
+<PageNumber/>
+<PublicationLanguage/>
+</Article>
+</PublicationHistory>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>true</Read>
+<Write>true</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+<References>
+<Reference type="Professional">
+<PersonName>
+<FormattedName>Dr. John Smith</FormattedName>
+</PersonName>
+<PositionTitle>Advisor</PositionTitle>
+<ContactMethod>
+<Telephone>
+<FormattedNumber>1 404 1224567</FormattedNumber>
+</Telephone>
+<InternetEmailAddress>jsmith@gwu.edu</InternetEmailAddress>
+</ContactMethod>
+<Comments>
+George Washington University, School of Business
+</Comments>
+</Reference>
+</References>
+<ResumeAdditionalItems>
+<ResumeAdditionalItem type="Hobbies">
+<EffectiveDate>
+<StartDate>
+<Year>2000</Year>
+</StartDate>
+</EffectiveDate>
+<Description>Running</Description>
+</ResumeAdditionalItem>
+</ResumeAdditionalItems>
+<RevisionDate>2003-03-13</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>
+The resume text would be entered here. No formatting would apply.
+</TextResume>
+<SupportingMaterials>
+<Link>http://www.my-resume.com</Link>
+<Description>Link to my online resume</Description>
+</SupportingMaterials>
+</NonXMLResume>
+</Resume>

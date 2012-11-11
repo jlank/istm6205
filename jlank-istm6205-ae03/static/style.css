@@ -1,0 +1,67 @@
+div#hoverpopupContactInfo {
+background-color: brown;
+border: 8px maroon solid;
+padding: 10px;
+}
+div#hoverpopupEdInfo {
+background-color: lightblue;
+border: 5px blue solid;
+padding: 5px;
+}
+h1 {
+font-size:35px;
+color:black;
+font-family: 'Arbutus Slab', serif;
+text-align: center;
+}
+h2 {
+font-family: 'Arbutus Slab', serif;
+text-align: center;
+}
+h3 {
+font-family: 'Arbutus Slab', serif;
+text-align: center;
+}
+p {
+font-family: 'Arbutus Slab', serif;
+color:black;
+font-size:20px;
+text-align:left;
+}
+.image-custom {
+width: 282px;
+height: 281px;
+}
+.well {
+  height: 80px;
+}
+.mash {
+  height: 40px;
+}
+h3, h3:visited {
+  text-decoration: none;
+  -webkit-transition-property: color, text-shadow;
+  -webkit-transition-duration: .2s;
+  -webkit-transition-timing-function: ease-in;
+}
+
+h3:hover {
+  color: #000;
+  text-shadow: 0 0 5px #08C;
+}
+
+.popover {
+  width: 940px;
+  height: 120px;
+}
+
+.previews {
+  margin-top: 1px;
+  width: 939px;
+  height: 120px;
+  border: 1px solid grey;
+}
+
+h3.title a{
+  color: black;
+}

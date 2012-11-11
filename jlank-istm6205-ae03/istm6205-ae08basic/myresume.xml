@@ -1,0 +1,271 @@
+<Resume>
+	<ResumeId>
+		<IdValue>JA2284</IdValue>
+	</ResumeId>
+	<DistributionGuidelines>
+	  <DistributeTo>
+		<Name>JLank Labs</Name>
+		<ContactMethod>
+			<Telephone>
+				<FormattedNumber></FormattedNumber>
+			</Telephone>
+			<InternetWebAddress></InternetWebAddress>
+		</ContactMethod>
+	  </DistributeTo>
+	<DoNotDistributeTo>
+		<Name></Name>
+	</DoNotDistributeTo>
+	</DistributionGuidelines>
+	<StructuredXMLResume>
+	  <ContactInfo>
+		<PersonName>
+			<FormattedName>John Lancaster</FormattedName>
+		</PersonName>
+		<ContactMethod>
+			<Telephone>
+				<FormattedNumber>+1 508 452 9760</FormattedNumber>
+				<Office>987 654 3210</Office>
+				<Cell>508 292 9120</Cell>
+			</Telephone>
+			<Fax>
+				<FormattedNumber></FormattedNumber>
+			</Fax>
+			<InternetEmailAddress>john.k.lancastr@gmail.com</InternetEmailAddress>
+			<InternetWebAddress></InternetWebAddress>
+			<PostalAddress>
+				<CountryCode>US</CountryCode>
+				<PostalCode>20001</PostalCode>
+				<Region>DC</Region>
+				<Municipality>Washington</Municipality>
+				<DeliveryAddress>309 D St, NW</DeliveryAddress>
+				<Recipient>
+					<OrganizationName></OrganizationName>
+				</Recipient>
+			</PostalAddress>
+		</ContactMethod>
+	  </ContactInfo>
+	  <ExecutiveSummary>
+	  	I have extensive experience developing web sites and web applications using a variety of technologies.  For the past 5 years I have been working on the front, middle, and back end of various techonolgy stacks.  Some of the technologies I've bent to my will over this time frame include: Google Search Appliances, CentOS servers, Entity Extraction services, Non-relational Database systems, and Open Source projects.  I fancy myself a budding dev-ops professional, I like to straddle the line between application developer and system admin - since IMO you can't bake a cake without all the ingredients.  Currently my focus is on the node.js anti-framework, leveraging and contributing to open source projects, winning hackathons, and creating an multilingual entity-extraction and application service to tag articles in various languages.
+	  </ExecutiveSummary>
+	  <Objective>
+	  	I like to challenge myself and work on interesting projects.  I wear many hats, and have technology ADD.  I'm always looking to improve my skills and expand on my experience with the following technologies: node.js, javascript, couchdb, bash, ruby, linux, REST, html/css, xslt, jquery, c++, json, and anything web-related.
+	  </Objective>
+	  <EmploymentHistory>
+	    <EmployerOrg>
+	       <EmployerOrgName>Computer Technology Consultants</EmployerOrgName>
+	       <InternetDomainName>http://usa-ctc.com</InternetDomainName>
+	       <EmployerContactInfo>
+		  <LocationSummary>
+			<Municipality></Municipality>
+			<Region></Region>
+		  </LocationSummary>
+	       </EmployerContactInfo>
+	       <PositionHistory positionType="fulltime">
+		  <Title>Enterprise Search Specialist</Title>
+		  <Image>search.jpg</Image>
+		  <OrgName>
+			<OrganizationName></OrganizationName>
+		  </OrgName>
+		  <Description> Manage 400+ mission critical search pages and indexes with the Google Search Appliance. Production environment operates at scale to reach Global audience in over 40 languages. Automated workflow, mobile capable, relevant search via custom taxonomy &amp; meta-data strategy.</Description>
+		  <StartDate>
+			<YearMonth>January 2009</YearMonth>
+		  </StartDate>
+		  <EndDate>
+			<YearMonth>Current</YearMonth>
+		  </EndDate>
+	       </PositionHistory>
+	  </EmployerOrg>
+		
+	  <EmployerOrg>
+	       <EmployerOrgName>Precipia Systems</EmployerOrgName>
+	       <InternetDomainName>http://www.linkedin.com/company/precipia-systems-inc</InternetDomainName>
+	       <EmployerContactInfo>
+		  <LocationSummary>
+			<Municipality></Municipality>
+			<Region></Region>
+		  </LocationSummary>
+	       </EmployerContactInfo>
+	       <PositionHistory positionType="fulltime">
+		  <Title>Software Engineer</Title>
+		  <Image>engineer.jpg</Image>
+		  <OrgName>
+			<OrganizationName></OrganizationName>
+		  </OrgName>
+		  <Description>Designed &amp; Developed company's public website from scratch. Integral member of software development team building a data-analysis web application using the Google Web Toolkit.</Description>
+		  <StartDate>
+			<YearMonth>June 2008</YearMonth>
+		  </StartDate>
+		  <EndDate>
+			<YearMonth>January 2009</YearMonth>
+		  </EndDate>
+	       </PositionHistory>
+	  </EmployerOrg>
+
+	  <EmployerOrg>
+	       <EmployerOrgName>38 Fayette Group</EmployerOrgName>
+	       <InternetDomainName>http://linkd.in/RvERr1</InternetDomainName>
+	       <EmployerContactInfo>
+		  <LocationSummary>
+			<Municipality></Municipality>
+			<Region></Region>
+		  </LocationSummary>
+	       </EmployerContactInfo>
+	       <PositionHistory positionType="fulltime">
+		  <Title>Technical Founder</Title>
+		  <Image>fayette.jpg</Image>
+		  <OrgName>
+			<OrganizationName></OrganizationName>
+		  </OrgName>
+		  <Description>Co-founded an events planning venture. Practiced entrepreneurial skills, risk management, operations, and implemented a marketing campaign. First event had 350+ in attendance, raised $25,000 in 3 weeks, profitable.</Description>
+		  <StartDate>
+			<YearMonth>September 2008</YearMonth>
+		  </StartDate>
+		  <EndDate>
+			<YearMonth>September 2008</YearMonth>
+		  </EndDate>
+	       </PositionHistory>
+	  </EmployerOrg>
+	</EmploymentHistory>
+
+	<EducationHistory>
+
+		<SchoolOrInstitution schoolType="undergraduate"> 
+			<School>
+				<InternetDomainName>http://www.georgetown.edu</InternetDomainName>
+				<SchoolName>Georgetown University</SchoolName>
+        <Image>georgetown.jpg</Image>
+			</School>
+			<Degree degreeType="bachelors">
+			  <DegreeName>Bachelor of Arts in Computer Science</DegreeName>
+			  <Minor>Studio Art</Minor>
+			  <DegreeDate>
+				<YearMonth>May 2008</YearMonth>
+			  </DegreeDate>
+			  <DegreeMajor>
+				<Name></Name>
+			  </DegreeMajor>
+			  <DegreeMinor>
+				<Name></Name>
+			  </DegreeMinor>
+			  <Comments></Comments>
+			</Degree>
+		</SchoolOrInstitution>
+
+	  <SchoolOrInstitution schoolType="business">
+			<School>
+				<InternetDomainName>http://www.gwu.edu</InternetDomainName>
+				<SchoolName>George Washington University</SchoolName>
+        <Image>gwu.jpg</Image>
+			</School>
+			<Degree degreeType="masters">
+			  <DegreeName>Master of Science in Information Systems Technology</DegreeName>
+			  <Minor>None</Minor>
+			  <DegreeDate>
+				<YearMonth>May 2013 Candidate</YearMonth>
+			  </DegreeDate>
+			  <DegreeMajor>
+				<Name></Name>
+			  </DegreeMajor>
+			  <DegreeMinor>
+				<Name></Name>
+			  </DegreeMinor>
+			  <Comments></Comments>
+			</Degree>
+		</SchoolOrInstitution>
+
+	</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name/>
+<Id/>
+<IssuingAuthority/>
+<Description/>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate/>
+</ValidFrom>
+<ValidTo>
+<AnyDate/>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<PatentHistory>
+<Patent>
+<PatentTitle/>
+<Description/>
+<Inventors>
+<InventorName/>
+<InventorName/>
+</Inventors>
+<PatentDetail>
+<PatentMilestone>
+<Status/>
+<Date/>
+</PatentMilestone>
+</PatentDetail>
+</Patent>
+</PatentHistory>
+<PublicationHistory>
+<Article>
+<Title/>
+<Name>
+<FormattedName/>
+</Name>
+<PublicationDate>
+<YearMonth/>
+</PublicationDate>
+<JournalOrSerialName/>
+<Volume/>
+<Issue/>
+<PageNumber/>
+<PublicationLanguage/>
+</Article>
+</PublicationHistory>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>true</Read>
+<Write>true</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+<References>
+<Reference type="Professional">
+<PersonName>
+<FormattedName>Rylie Lancaster</FormattedName>
+</PersonName>
+<PositionTitle>My Dog</PositionTitle>
+<ContactMethod>
+<Telephone>
+<FormattedNumber>1 800 BARKS</FormattedNumber>
+</Telephone>
+<InternetEmailAddress>rylie@thecouch.com</InternetEmailAddress>
+</ContactMethod>
+<Comments>
+	Spiritual guide.
+</Comments>
+</Reference>
+</References>
+<ResumeAdditionalItems>
+<ResumeAdditionalItem type="Hobbies">
+<EffectiveDate>
+<StartDate>
+<Year>2000</Year>
+</StartDate>
+</EffectiveDate>
+<Description>Football</Description>
+</ResumeAdditionalItem>
+</ResumeAdditionalItems>
+<RevisionDate>2003-03-13</RevisionDate>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>
+The resume text would be entered here. No formatting would apply.
+</TextResume>
+<SupportingMaterials>
+<Link>http://www.jlank.com</Link>
+<Description>Link to my blog</Description>
+</SupportingMaterials>
+</NonXMLResume>
+</Resume>

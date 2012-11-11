@@ -1,0 +1,71 @@
+<html>
+<head>
+ <title>John Lancaster's Resume</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab' rel='stylesheet' type='text/css'/>
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="highlight.css" />
+ </head>
+<body>
+
+<div class="container">
+  <div class="row-fluid">
+    <div class="span12 offset4">
+      <img class="img-circle image-custom" src="img/jlank_off.jpg">
+    </div>
+      <div class="row-fluid">
+        <h1 id="name">John Lancaster's Resume</h1>
+        <hr/>
+
+        <div class="span12">
+          <h2>Work Experience</h2>
+        </div>
+        <div class="span12">
+          <h3 class="title" rel="popover" data-content="<b>Computer Techonolgy Consultants:</b> Manage 400+ mission critical search pages and indexes with the Google Search Appliance. Production environment operates at scale to reach Global audience in over 40 languages. Automated workflow, mobile capable, relevant search via custom taxonomy & meta-data strategy."><a href="http://usa-ctc.com" target="blank">Enterprise Search Specialist</a></h3>
+        <img class="previews" src="img/search.jpg">
+        </div>
+        <div class="span12">
+          <h3 class="title" rel="popover" data-content="<b>Precipia Systems:</b> Designed & Developed company's public website from scratch. Integral member of software development team building a data-analysis web application using the Google Web Toolkit."><a href="http://www.linkedin.com/company/precipia-systems-inc." target="blank">Software Engineer</a></h3>
+        <img class="previews" src="img/engineer.jpg">
+        </div>
+        <div class="span12">
+          <h3 class="title" rel="popover" data-content="<b>38 Fayette Group:</b> Co-founded an events planning venture. Practiced entrepreneurial skills, risk management, operations, and implemented a marketing campaign. First event had 350+ in attendance, raised $25,000 in 3 weeks, profitable."><a href="http://linkd.in/RvERr1" target="blank">Technical Founder</a></h3>
+          <img class="previews" src="img/fayette.jpg">
+        </div>
+        <div class="span12">
+          <hr/>
+          <h2>Education</h2>
+        </div>
+        <div class="span12">
+          <h3 class="title" rel="popover" data-content="<b>Major:</b> Bachelors of Arts, Computer Science <br/><b>Minor:</b> Studio Art<br/><b>Extracurricular:</b>Varsity Football, Patriot League Honor Roll."><a href="http://www.georgetown.edu/" target="blank">Georgetown University</a></h3>
+          <img class="previews" src="img/georgetown.jpg">
+        </div>
+        <div class="span12">
+          <h3 class="title" rel="popover" data-content="<b>Candidate:</b> Master of Science in Information Systems Technology"><a href="http://www.gwu.edu" target="blank">George Washington University</a></h3>
+          <img class="previews" src="img/gwu.jpg">
+        </div>
+
+        <div class="span12">
+          <hr/>
+          <h2>Contact Information</h2>
+            <h3><a href="http://twitter.com/jlank" target="blank">@jlank</a></h3>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script src="http://twitter.github.com/bootstrap/assets/js/jquery.js"></script>
+<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tooltip.js"></script>
+<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-popover.js"></script>
+<script>
+var options = { animation: true, trigger: 'hover', placement: 'bottom' };
+$('.title').popover(options)
+$(".img-circle").hover(
+          function(){this.src = this.src.replace("_off","_on");},
+          function(){this.src = this.src.replace("_on","_off");
+     });
+</script>
+
+</body>
+</html>
