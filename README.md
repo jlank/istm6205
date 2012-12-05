@@ -7,3 +7,5 @@ the live/hosted versions of these apps can be found at:
 * http://jlank-istm6205-ae01.appspot.com/
 * http://jlank-istm6205-ae02.appspot.com/
 * http://jlank-istm6205-ae03.appspot.com/
+
+LICENSE: MIT
