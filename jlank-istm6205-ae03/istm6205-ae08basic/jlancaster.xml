@@ -5,6 +5,7 @@
 	<DistributionGuidelines>
 	  <DistributeTo>
 		<Name>JLank Labs</Name>
+    <Twitter>jlank</Twitter>
 		<ContactMethod>
 			<Telephone>
 				<FormattedNumber></FormattedNumber>
@@ -47,9 +48,11 @@
 	  <ExecutiveSummary>
 	  	I have extensive experience developing web sites and web applications using a variety of technologies.  For the past 5 years I have been working on the front, middle, and back end of various techonolgy stacks.  Some of the technologies I've bent to my will over this time frame include: Google Search Appliances, CentOS servers, Entity Extraction services, Non-relational Database systems, and Open Source projects.  I fancy myself a budding dev-ops professional, I like to straddle the line between application developer and system admin - since IMO you can't bake a cake without all the ingredients.  Currently my focus is on the node.js anti-framework, leveraging and contributing to open source projects, winning hackathons, and creating an multilingual entity-extraction and application service to tag articles in various languages.
 	  </ExecutiveSummary>
+		<ExecImage>executive.jpg</ExecImage>
 	  <Objective>
 	  	I like to challenge myself and work on interesting projects.  I wear many hats, and have technology ADD.  I'm always looking to improve my skills and expand on my experience with the following technologies: node.js, javascript, couchdb, bash, ruby, linux, REST, html/css, xslt, jquery, c++, json, and anything web-related.
 	  </Objective>
+		<ObjImage>objective.jpg</ObjImage>
 	  <EmploymentHistory>
 	    <EmployerOrg>
 	       <EmployerOrgName>Computer Technology Consultants</EmployerOrgName>

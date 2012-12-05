@@ -1,10 +1,11 @@
 <Resume>
   <ResumeId>
-    <IdValue>JA2284</IdValue>
+    <IdValue>JA2285</IdValue>
   </ResumeId>
   <DistributionGuidelines>
     <DistributeTo>
     <Name>Deloitte Consulting</Name>
+    <Twitter>acoffey</Twitter>
     <ContactMethod>
       <Telephone>
         <FormattedNumber></FormattedNumber>
@@ -47,9 +48,11 @@
     <ExecutiveSummary>
     She is a graduate from Georgetown University with concentrations in Government and Health Policy. Amy is pursuing a M.S. at George Washington University studying Information Systems Technology with a focus on Health Information Technology. Amy is experienced in the health care industry and has worked on a variety of federal and commercial health projects for U.S. Military health clients, larger Federal health services client, and large private sector health systems. Amy has acquired a strong set of analytic tools and communication skills with experience in performance improvement. She has worked closely with clients to evaluate performance improvement opportunities and develop organizational and investment strategies to close performance gaps. She has client-facing experience with gathering requirements for a Personal Health Record with Secure Messaging portal, IM/IT Strategic Planning, and IT investment strategy.
     </ExecutiveSummary>
+		<ExecImage>executive.jpg</ExecImage>
     <Objective>
       To find opportunities in health information technology helping that drive innovation in the health care industry. 
     </Objective>
+		<ObjImage>objective.jpg</ObjImage>
     <EmploymentHistory>
       <EmployerOrg>
          <EmployerOrgName>Deloitte Center for Health Solutions</EmployerOrgName>
@@ -62,6 +65,7 @@
          </EmployerContactInfo>
          <PositionHistory positionType="fulltime">
       <Title>Operations Specialist</Title>
+		  <Image>operations.jpg</Image>
       <OrgName>
       <OrganizationName></OrganizationName>
       </OrgName>
@@ -88,6 +92,7 @@
          </EmployerContactInfo>
          <PositionHistory positionType="fulltime">
       <Title>Senior Consultant</Title>
+		  <Image>consultant.jpg</Image>
       <OrgName>
       <OrganizationName></OrganizationName>
       </OrgName>
@@ -108,6 +113,7 @@
       <School>
         <InternetDomainName>www.gwu.edu</InternetDomainName>
         <SchoolName>George Washington University</SchoolName>
+        <Image>gwu.jpg</Image>
       </School>
       <Degree degreeType="masters">
         <DegreeName>Master of Science in Information Systems Technology</DegreeName>
@@ -127,6 +133,7 @@
       <School>
         <InternetDomainName>www.georgetown.edu</InternetDomainName>
         <SchoolName>Georgetown University</SchoolName>
+        <Image>georgetown.jpg</Image>
       </School>
       <Degree degreeType="bachelors">
         <DegreeName>Bachelor of Arts</DegreeName>

@@ -1,11 +1,12 @@
-application: istm6205-ae08
+application: jlank-istm6205-ae03
 version: 1
 runtime: python
 api_version: 1
 
-handlers: 
+handlers:
 - url: /Resume
   static_dir: Resume
-  
+
 - url: /.*
   script: showresume.py
+  login: required

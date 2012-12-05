@@ -9,10 +9,15 @@
  </head>
 <body>
 
+<select class="target">
+  <option value="">Select a Candidate</option>
+  <option value="jlancaster">John Lancaster</option>
+  <option value="acoffey">Amy Coffey</option>
+</select>
 <div class="container">
   <div class="row-fluid">
     <div class="span12 offset4">
-      <img class="img-circle image-custom" src="Resume/img/jlank_off.jpg">
+      <img class="img-circle image-custom" src="Resume/img/{{name}}/self_off.jpg">
     </div>
       <div class="row-fluid">
         <h1 id="name">{{person}}'s Resume</h1>
@@ -32,12 +37,12 @@
 
         <div id="executive" class="span12">
           <h3 class="title" rel="popover" data-content="{{execsummary}}">Executive Summary</h3>
-          <img class="previews" src="Resume/img/summary.jpg">
+          <img class="previews" src="Resume/img/{{name}}/executive.jpg">
         </div>
 
         <div id="objective" class="span12">
           <h3 class="title" rel="popover" data-content="{{objective}}">Objective</h3>
-          <img class="previews" src="Resume/img/objective.png">
+          <img class="previews" src="Resume/img/{{name}}/objective.png">
         </div>
         <hr/>
 
@@ -47,7 +52,7 @@
 			  {% for employment in employers %}
         <div class="span12">
           <h3 class="title" rel="popover" data-content="{{employment.organization}}: {% for desc in employment.description %} {{ desc.text }} {% endfor %}"><a href="{{employment.orgdomname}}" target="blank">{{employment.title}}</a></h3>
-        <img class="previews" src="Resume/img/{{employment.image}}">
+          <img class="previews" src="Resume/img/{{name}}/{{employment.image}}">
         </div>
 		    {% endfor %}
 
@@ -59,14 +64,14 @@
 			  {% for education in school %}
         <div class="span12">
           <h3 class="title" rel="popover" data-content="Major: {{education.degree}}. Minor: {{education.minor }}"><a href="{{education.schoolwebsite}}" target="blank">{{education.sch}}</a></h3>
-          <img class="previews" src="Resume/img/{{education.image}}">
+          <img class="previews" src="Resume/img/{{name}}/{{education.image}}">
         </div>
 		    {% endfor %}
 
         <div class="span12">
           <hr/>
           <h2>Contact Information</h2>
-            <h3><a href="http://twitter.com/jlank" target="blank">@jlank</a></h3>
+          <h3><a href="http://twitter.com/{{twitter}}" target="blank">@{{twitter}}</a></h3>
         </div>
     </div>
   </div>
@@ -84,6 +89,12 @@ $(".img-circle").hover(
           function(){this.src = this.src.replace("_off","_on");},
           function(){this.src = this.src.replace("_on","_off");
      });
+$('.target').change(function() {
+  $("select option:selected").each(function () {
+    //console.log(this.value);
+    window.location = '/?name=' + this.value;
+  });
+});
 </script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/bonsai/0.4/bonsai.min.js"></script>
 <script>
